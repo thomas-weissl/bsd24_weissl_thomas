@@ -27,3 +27,4 @@ Im Frontend muss man einfach die App ausführen und kann dann sofort mit dem Sca
 
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
+- [Exercise2_Part2](exercise2_part2.md)
