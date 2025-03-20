@@ -23,3 +23,4 @@ Im Frontend muss man einfach die App ausführen und kann dann sofort mit dem Sca
 - Das Frontend funktioniert Offline, da die Datensätze erst bei Knopfdruck versendet werden und wenn jedes Device im Netzwerk ist
 
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
