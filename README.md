@@ -1,3 +1,6 @@
+- [Autor](https://github.com/thomas-weissl?tab=repositories)
+- [FH Campus02](https://www.campus02.at/)
+
 # **Wäscherei Programm**
 ### Beschreibung
 Auf jedem Kleidungsstück, des Bundesheers, ist ein Code mit Informationen über dieses Kleidungsstück.
