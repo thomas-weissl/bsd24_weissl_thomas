@@ -1,4 +1,4 @@
-#ignore pdf and html
 *.pdf
 *.html
-.idea
+
+
