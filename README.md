@@ -25,6 +25,10 @@ Im Frontend muss man einfach die App ausführen und kann dann sofort mit dem Sca
 - Das Backend ist auf jedem Betriebssystem ausführbar
 - Das Frontend funktioniert Offline, da die Datensätze erst bei Knopfdruck versendet werden und wenn jedes Device im Netzwerk ist
 
+### Konfigurationen zum anpassen
+- [log4j.xml](src/main/resources/log4j2.xml.template)
+
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
 - [Exercise2_Part2](exercise2_part2.md)
+- [Exercise3](exercise3.md)
