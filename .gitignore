@@ -1,6 +1,6 @@
+#ignore pdf and html
 *.pdf
 *.html
-<<<<<<< HEAD
 #ignore idea
 .idea
 
