@@ -3,4 +3,7 @@
 *.html
 #ignore idea
 .idea
+#log
+*.log
+
 
