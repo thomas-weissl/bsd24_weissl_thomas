@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Multiply: " + calculator.multiply(5.2, 3));
         System.out.println("Divide: " + calculator.divide(5.2, 3));
         System.out.println("Add: " + calculator.add(5.2, 3));
+        System.out.println("Thomas Weissl");
     }
 }
