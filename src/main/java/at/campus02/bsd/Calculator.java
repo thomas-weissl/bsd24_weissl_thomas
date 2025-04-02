@@ -37,6 +37,7 @@ public class Calculator {
     }
 
     public int factorial(int number) {
+        //comment for branch faculty
         int result = 1;
         for (int i = 1; i <= number; i++) {
             result *= i;
