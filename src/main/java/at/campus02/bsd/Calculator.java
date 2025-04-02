@@ -35,4 +35,17 @@ public class Calculator {
         }
         return 0;
     }
+
+    public int factorial(int number) {
+        int result = 1;
+        for (int i = 1; i <= number; i++) {
+            result *= i;
+        }
+        if(number<0){
+            result = 0;
+        }else if(number == 0){
+            result = 0;
+        }
+        return result;
+    }
 }
